@@ -18,4 +18,5 @@ Návod na použití:
 
 
 PS: během psaní nesmíte překlinkout do jiného okna
+
 PS2: pokud lekce obsahuje více řádků, je potřeba na každém novém řádku znovu stisknout "ctrl"
