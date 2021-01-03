@@ -15,5 +15,7 @@ Návod na použití:
 1) v libovolném textovém editoru (například notepad.exe) otevřete AtfAutoType.py a na označeném místě přepíšete vaše přihlašovací údaje
 2) po spuštění se vám načte stránka atfonline.cz a automaticky budete přihlášeni
 3) nyní stačí vybrat lekci kterou chcete vyplnit a stisknout "ctrl" 
+
+
 PS: během psaní nesmíte překlinkout do jiného okna
 PS2: pokud lekce obsahuje více řádků, je potřeba na každém novém řádku znovu stisknout "ctrl"
