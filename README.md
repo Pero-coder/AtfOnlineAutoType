@@ -6,8 +6,8 @@ Program je napsaný v Pythonu a využívá framework Selenium. Pro spuštění j
 Návod na instalaci požadavků:
 1) stáhnout a nainstalovat Python: https://www.python.org/downloads/
 2) do cmd napsat:
-    pip install selenium
-    pip install keyboard
+pip install selenium
+pip install keyboard
 3) Stáhnout chrome driver (pokud chcete použít driver jiného prohlížeče, je potřeba udělat změny v kódu programu): https://chromedriver.chromium.org/
 4) vložit chromedriver.exe do "C:\Program Files (x86)" (pokud umístníte soubor jinam, je potřeba změnit cestu k němu v kódu programu)
 
